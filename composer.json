@@ -1,0 +1,14 @@
+{
+    "name": "arbitrium/lend",
+    "description": "Core Lend",
+    "homepage": "https://bitbucket.org/nelsonko/arbitrium-php-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neil Solomon Lesidan",
+            "email": "neil@idearobin.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
